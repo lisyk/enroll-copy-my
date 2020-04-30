@@ -24,7 +24,7 @@
     "core-js": "2",
     "html-loader": "^0.5.5",
     "jest": "^24.8.0",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "ngx-mask": "^7.9.9",
     "npm": "^6.0.0",
